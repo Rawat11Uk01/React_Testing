@@ -1,5 +1,5 @@
 function App() {
-  return <>testing 101</>;
+  return <>Testing in jest 101</>;
 }
 
 export default App;
