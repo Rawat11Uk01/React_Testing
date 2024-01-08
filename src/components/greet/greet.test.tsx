@@ -5,7 +5,7 @@ import "@testing-library/jest-dom";
 describe("Greet", () => {
   test("render correctly", () => {
     render(<Greet />);
-    const textElement = screen.getByText("Yo");
+    const textElement = screen.getByText("Yoo");
     expect(textElement).toBeInTheDocument();
   });
 
