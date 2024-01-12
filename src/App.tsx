@@ -1,5 +1,7 @@
+import { Application } from "./components/application/application";
+
 function App() {
-  return <>Testing in jest 101</>;
+  return <Application/>;
 }
 
 export default App;
