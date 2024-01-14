@@ -1,7 +1,7 @@
-import { Application } from "./components/application/application";
+import { Counter } from "./components/counter/counter";
 
 function App() {
-  return <Application/>;
+  return <Counter />;
 }
 
 export default App;
